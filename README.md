@@ -9,7 +9,7 @@
 
 5th-year engineering student at EMSI Casablanca (Cybersecurity & Network Infrastructure track), graduating in June 2027.
 
-I'm looking for a 6-month final-year (PFE) internship, with a preference for SOC, Blue Team, and Red Team roles, while staying open to other areas of cybersecurity.
+I'm looking for a 6-month final-year (PFE) internship, with a preference for **SOC, Blue Team, and Red Team** roles, while staying open to other areas of cybersecurity.
 
 ---
 
