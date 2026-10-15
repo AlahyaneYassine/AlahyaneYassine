@@ -7,9 +7,8 @@
 
 ### Cybersecurity Student | Seeking a Cybersecurity Internship
 
-5th-year engineering student at EMSI Casablanca (Cybersecurity & Network Infrastructure track), graduating in June 2027.
-
-I'm looking for a 6-month final-year (PFE) internship, with a preference for **SOC, Blue Team, and Red Team** roles, while staying open to other areas of cybersecurity.
+5th-year engineering student at **EMSI Casablanca** (Cybersecurity & Network Infrastructure track), graduating in **June 2027**.
+I'm looking for a **6-month final-year (PFE) internship**, with a preference for **SOC and Blue Team** roles, while staying open to other areas of cybersecurity.
 
 ---
 
@@ -18,9 +17,9 @@ I'm looking for a 6-month final-year (PFE) internship, with a preference for **S
 I'm interested in opportunities in:
 
 - **SOC Analysis & Blue Team** (main focus)
-- Penetration Testing & Red Team
 - Incident Response & Digital Forensics (DFIR)
 - Network Security
+- Penetration Testing & Red Team
 - Malware Analysis & Threat Detection
 - Threat Intelligence
 - Security Engineering & Automation
@@ -31,14 +30,14 @@ I'm interested in opportunities in:
 ## 🚀 Practical projects
 
 ### 🏥 [MedSecure-FortiNet](https://github.com/AlahyaneYassine/MedSecure-FortiNet): secure network design
-I've worked on secure network design using FortiGate for a healthcare scenario, exploring VLAN segmentation, DMZ architecture, IPsec/SSL VPNs, and FortiAnalyzer log monitoring. Built and tested in a virtual lab (PNETLab, VMware).
+Built during my INEOS internship: I designed and deployed a FortiGate-based network in a simulated clinic and remote-laboratory environment, with VLAN segmentation, a DMZ, a site-to-site IPsec VPN, SSL-VPN access for remote doctors, and FortiAnalyzer log monitoring. Validated with connectivity, VPN and firewall-policy tests in a virtual lab (PNETLab, VMware).
 
 ### 🦠 [F-SCANER](https://github.com/AlahyaneYassine/F-SCANER): malware detection
-I developed F-SCANER as a malware detection project combining five Machine Learning and Deep Learning models to explore automated threat detection. It adds static PE analysis, VirusTotal enrichment and SHAP explainability, and reaches F1 0.959 / AUC 0.991 on the EMBER test set. It is an academic prototype, not a production antivirus.
+I developed F-SCANER as a malware detection project combining five Machine Learning and Deep Learning models to explore automated threat detection. It adds static PE analysis, VirusTotal enrichment and SHAP explainability, and reaches F1 0.959 / AUC 0.991 on the EMBER test set. It was also tested on a real malware sample from MalwareBazaar. It is an academic prototype, not a production antivirus.
 
 ### 💼 Internships
-- **INEOS** (Jul – Sep 2026): secure network with FortiGate, secure VPN access, and log analysis with FortiAnalyzer.
-- **DXC Technology Morocco** (Jul – Aug 2025): student internship.
+- **INEOS** (Jul – Sep 2026): the MedSecure-FortiNet project above (secure FortiGate network, VPN access, FortiAnalyzer log analysis).
+- **DXC Technology Morocco** (Jul – Aug 2025): designed and developed an AI-powered product search and purchase web application with an AI agent (MERN stack).
 
 ---
 
@@ -60,12 +59,13 @@ I developed F-SCANER as a malware detection project combining five Machine Learn
 ### 🛡️ Cybersecurity & Blue Team
 - Security log analysis with FortiAnalyzer
 - Threat detection: ML-based malware verdicts with confidence scores and per-model votes
+- Cyber crisis management: KASBAH 2026 serious game (EMSI × Cybersup), Business Continuity cell
 
 ### 🖥️ Systems & Virtualization
 - Linux, VMware, VirtualBox, PNETLab
 
 ### 💻 Programming & Development
-- Python, C, JavaScript, PHP
+- Python, C, C++, JavaScript, PHP
 - FastAPI, Streamlit, Django, Node.js/Express, React, Symfony
 - MySQL, MongoDB, MinIO, Git
 
@@ -119,8 +119,8 @@ Both sides of security interest me, and they feed each other.
 
 - 🇲🇦 **Arabic**: Native
 - 🇫🇷 **French**: Native
-- 🇬🇧 **English**: B2 (EF SET 2025)
-- 🇪🇸 **Spanish**: A1
+- 🇬🇧 **English**: B2 (EF SET, Sep 2024)
+- 🇪🇸 **Spanish**: A1 (beginner)
 
 ---
 
