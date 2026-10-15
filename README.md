@@ -7,8 +7,9 @@
 
 ### Cybersecurity Student | Seeking a Cybersecurity Internship
 
-5th-year engineering student at **EMSI Casablanca** (Cybersecurity & Network Infrastructure track), graduating in **June 2027**.
-I'm looking for a **6-month final-year (PFE) internship**, with a preference for **SOC and Blue Team** roles, while staying open to other areas of cybersecurity.
+5th-year engineering student at EMSI Casablanca (Cybersecurity & Network Infrastructure track), graduating in June 2027.
+
+I'm looking for a 6-month final-year (PFE) internship, with a preference for SOC, Blue Team, and Red Team roles, while staying open to other areas of cybersecurity.
 
 ---
 
@@ -17,9 +18,9 @@ I'm looking for a **6-month final-year (PFE) internship**, with a preference for
 I'm interested in opportunities in:
 
 - **SOC Analysis & Blue Team** (main focus)
+- Penetration Testing & Red Team
 - Incident Response & Digital Forensics (DFIR)
 - Network Security
-- Penetration Testing & Red Team
 - Malware Analysis & Threat Detection
 - Threat Intelligence
 - Security Engineering & Automation
@@ -119,7 +120,7 @@ Both sides of security interest me, and they feed each other.
 - 🇲🇦 **Arabic**: Native
 - 🇫🇷 **French**: Native
 - 🇬🇧 **English**: B2 (EF SET 2025)
-- 🇪🇸 **Spanish**: A1 (beginner)
+- 🇪🇸 **Spanish**: A1
 
 ---
 
