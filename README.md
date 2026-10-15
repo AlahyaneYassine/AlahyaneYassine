@@ -3,50 +3,126 @@
   <a href="https://alahyaneyassine.github.io/Personal-Website/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=3DDC84&logoColor=black&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
-# hey there 👋
+# Yassine Alahyane
 
-### 🔐 About Me
+### Cybersecurity Student | Seeking a Cybersecurity Internship
 
-- 👋 I'm **Yassine Alahyane**, a 5th-year engineering student at **EMSI Casablanca**.
-- 🛡️ Cybersecurity & Network Infrastructure track, graduating in **June 2027**.
-- 🌐 I design secure networks with **FortiGate**: VLAN segmentation, DMZ, IPsec/SSL VPN and FortiAnalyzer logging.
-- 🧠 I build threat-detection tools, like **F-SCANER**, a malware detector that combines 5 ML/DL models.
-- 💼 Cybersecurity intern at **INEOS** (Jul – Sep 2026).
-- 🎯 Currently looking for a **6-month PFE internship** in network security / security engineering.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yassine-alahyane-8b0910305/) or my [portfolio](https://alahyaneyassine.github.io/Personal-Website/).
-- 💡 Fun fact: a firewall rule that works on the first try usually allows everything.
+5th-year engineering student at **EMSI Casablanca** (Cybersecurity & Network Infrastructure track), graduating in **June 2027**.
+I'm looking for a **6-month final-year (PFE) internship**, with a preference for **SOC and Blue Team** roles, while staying open to other areas of cybersecurity.
 
-### 🚀 Featured projects
+---
 
-- 🏥 [**MedSecure-FortiNet**](https://github.com/AlahyaneYassine/MedSecure-FortiNet): secure network for a healthcare environment (VLAN, DMZ, site-to-site IPsec, SSL-VPN, FortiAnalyzer) in a PNETLab/VMware lab.
-- 🦠 [**F-SCANER**](https://github.com/AlahyaneYassine/F-SCANER): hybrid malware detection with static PE analysis, VirusTotal enrichment and SHAP explainability. F1 0.959 / AUC 0.991 on EMBER.
+## 🎯 Internship objective
 
-### 🛠 Languages and tools
+I'm interested in opportunities in:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
-  <img src="https://img.shields.io/badge/IPsec_%26_SSL--VPN-1F2937?style=for-the-badge" alt="IPsec and SSL-VPN">
-  <img src="https://img.shields.io/badge/VLAN_%2F_DMZ-1F2937?style=for-the-badge" alt="VLAN and DMZ">
-  <img src="https://img.shields.io/badge/FortiAnalyzer-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiAnalyzer">
-</p>
+- **SOC Analysis & Blue Team** (main focus)
+- Incident Response & Digital Forensics (DFIR)
+- Network Security
+- Penetration Testing & Red Team
+- Malware Analysis & Threat Detection
+- Threat Intelligence
+- Security Engineering & Automation
+- Vulnerability Assessment
+
+---
+
+## 🚀 Practical projects
+
+### 🏥 [MedSecure-FortiNet](https://github.com/AlahyaneYassine/MedSecure-FortiNet): secure network design
+I've worked on secure network design using FortiGate for a healthcare scenario, exploring VLAN segmentation, DMZ architecture, IPsec/SSL VPNs, and FortiAnalyzer log monitoring. Built and tested in a virtual lab (PNETLab, VMware).
+
+### 🦠 [F-SCANER](https://github.com/AlahyaneYassine/F-SCANER): malware detection
+I developed F-SCANER as a malware detection project combining five Machine Learning and Deep Learning models to explore automated threat detection. It adds static PE analysis, VirusTotal enrichment and SHAP explainability, and reaches F1 0.959 / AUC 0.991 on the EMBER test set. It is an academic prototype, not a production antivirus.
+
+### 💼 Internships
+- **INEOS** (Jul – Sep 2026): secure network with FortiGate, secure VPN access, and log analysis with FortiAnalyzer.
+- **DXC Technology Morocco** (Jul – Aug 2025): student internship.
+
+---
+
+## 🧰 Technical skills
+
+*Everything below was used in my projects or internships.*
+
+### 🌐 Network Security
+- FortiGate firewall policies and FortiAnalyzer log monitoring
+- VLAN segmentation and DMZ architecture
+- IPsec site-to-site VPN and SSL-VPN remote access
+
+### 🦠 Malware Detection & Machine Learning
+- F-SCANER: malware classification with five models (Random Forest, XGBoost, LightGBM, CNN1D, FT-Transformer)
+- Static PE analysis, VirusTotal enrichment, SHAP explainability
+- Datasets: EMBER 2018 and CIC-MalMem 2022
+- Python with scikit-learn, TensorFlow/Keras, XGBoost and LightGBM
+
+### 🛡️ Cybersecurity & Blue Team
+- Security log analysis with FortiAnalyzer
+- Threat detection: ML-based malware verdicts with confidence scores and per-model votes
+
+### 🖥️ Systems & Virtualization
+- Linux, VMware, VirtualBox, PNETLab
+
+### 💻 Programming & Development
+- Python, C, JavaScript, PHP
+- FastAPI, Streamlit, Django, Node.js/Express, React, Symfony
+- MySQL, MongoDB, MinIO, Git
 
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code">
 </p>
 
-### 🔥 My Stats
+<!--
+=====================================================================
+HIDDEN SECTIONS: NOT VISIBLE ON GITHUB.
+Only uncomment a line once it is true, and replace the [brackets]
+with the real tool, lab or course. Put each block right after
+"Cybersecurity & Blue Team" above.
+=====================================================================
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlahyaneYassine&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlahyaneYassine&hide_title=true&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top languages">
-</p>
+### 🛡️ Cybersecurity & Blue Team (add to the section above)
+- [SIEM / SOC tool you have used, e.g. Splunk, Wazuh, ELK]
+- Incident response fundamentals: [course or lab where you practiced it]
+
+### 🔴 Red Team & Security Testing
+- Penetration-testing fundamentals: [platform / course / CTF, e.g. TryHackMe, HTB]
+- Vulnerability assessment: [tool you have used, e.g. Nmap, Nessus, OpenVAS]
+- Web security (OWASP): [project, lab or exercise where you applied it]
+
+### 🔍 Digital Forensics
+- Memory and disk acquisition: [tool and coursework]
+- Digital evidence handling: [course or lab]
+- Forensic analysis tools: [e.g. Autopsy, Volatility, FTK Imager, whichever you really used]
+-->
+
+---
+
+## 🧠 Security mindset
+
+Both sides of security interest me, and they feed each other.
+
+💡 **Fun fact:** I like thinking like a Red Teamer to understand how attacks happen, then switching to a Blue Team mindset to detect, investigate, and defend against them.
+
+---
+
+## 🌍 Languages
+
+- 🇲🇦 **Arabic**: Native
+- 🇫🇷 **French**: Native
+- 🇬🇧 **English**: B2 (EF SET 2025)
+- 🇪🇸 **Spanish**: A1 (beginner)
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/yassine-alahyane-8b0910305/) · [Portfolio](https://alahyaneyassine.github.io/Personal-Website/)
