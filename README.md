@@ -117,10 +117,10 @@ Both sides of security interest me, and they feed each other.
 
 ## 🌍 Languages
 
+- 🇬🇧 **English**: Professional working, B2 (EF SET, Sep 2024)
+- 🇫🇷 **French**: Bilingual
 - 🇲🇦 **Arabic**: Native
-- 🇫🇷 **French**: Native
-- 🇬🇧 **English**: B2 (EF SET 2025)
-- 🇪🇸 **Spanish**: A1
+- 🇪🇸 **Spanish**: A1 (beginner)
 
 ---
 
